@@ -1,0 +1,9 @@
+hambot help: You are here!
+hambot say [message]: Have Hambot say whatever you want him to! 
+hambot whois [person]: Ask Hambot his opinion of other characters, or have him identify a discord user.
+hambot dab: Self-explanatory.
+
+
+Occasionally, Hambot will interject a relevant quote into the conversation. This can get annoying, so you can control his eavesdropping habit with the following commands:
+hambot shutup: Make Hambot stop interrupting the chat with his nonsense.
+hambot speak: Allow Hambot to continue interrupting the chat with his nonsense.

@@ -1,0 +1,2 @@
+exports.run = (client, message, args) => { message.channel.send("O, I die, " + message.author.toString() + "! The potent poison quite o'ercrows my spirit. I cannot live to hear the news from England, but I do prophesy th' election lights on Fortinbras. He has my dying voice. So tell him, with th' occurrents, more and less, which have solicited- the rest is silence.     ")
+}

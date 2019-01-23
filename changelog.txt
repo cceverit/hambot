@@ -1,0 +1,23 @@
+12/11/18
+Added choose, whereis, align, and dndalign
+Updated help page
+Added "thanks hambot" to trigger phrases
+Started work on insult generator
+12/12/18
+Installed sqlite
+Hambot info channel added to Lucy's server
+Began work on user database
+12/??/18
+Added basic database functionality; testing getname and getpronouns
+12/25/18
+Added insult generator and insult command
+12/27/18
+Added die command
+12/28/18
+Added error handling for whereis
+Posted updates on hambot-help channel
+Looking into using introductions post for whois
+Looking into custom emojis
+12/29/18
+Added introduction support to whois
+Added pay command (i.e. "pay respects")
