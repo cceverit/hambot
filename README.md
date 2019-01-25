@@ -1,7 +1,7 @@
 # hambot
 
 A List of Hambot's Commands
-  hambot help: Display command list.
+  hambot help: Display command list. <br>
   hambot say [x]: Have Hambot say whatever you want him to!
   hambot whois [x]: Ask Hambot his opinion of other characters, or have him identify a discord user.
   hambot whereis [x]: Hambot will tell you the status of a discord user.
