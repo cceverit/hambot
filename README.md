@@ -8,7 +8,7 @@ A List of Hambot's Commands<br>
 <br>
 Occasionally, Hambot will interject a relevant quote into the conversation. This can get annoying, so you can control his eavesdropping habit with the following commands:<br>
   hambot shutup: Make Hambot stop interrupting the chat with his nonsense.<br>
-  hambot speak: Allow Hambot to continue interrupting the chat with his nonsense.
+  hambot speak: Allow Hambot to continue interrupting the chat with his nonsense.<br>
 <br>
 Some of Hambot's less useful commands include:<br>
   hambot choose [x]: Have Hambot choose between two options.<br>
