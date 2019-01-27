@@ -16,3 +16,4 @@ Some of Hambot's less useful commands include:<br>
   hambot align [x]: Hambot will assign your target a tumblr alignment.<br>
   hambot insult [x]: Hambot will insult your target in the Shakespearean fashion.<br>
   hambot changename [x]: You can change Hambot's nickname in your server, if you have permission.<br>
+Plus a couple secret commands for you to figure out on your own!
